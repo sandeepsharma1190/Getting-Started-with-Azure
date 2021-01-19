@@ -1,0 +1,64 @@
+Getting Started with Azure 
+========================================================================================
+Module 1 Review
+1. A web based, unified console that provides an alternative to command line tools.
+2. Run local anti-virus scans
+3. Using the Search feature of the Azure Portal
+4. Opera
+5. Star
+6. Settings
+7. True
+8. Bottom Right
+9. subscription
+10. resource
+========================================================================================
+Module 2 Review
+1. Security
+2. Linux
+3. False
+4. Availability Sets
+5. Application Workload
+6. True
+7. Azure Resource Manager, Azure Client SDK
+8. Unlimited scaling
+9. Yes
+10. internet
+Getting Started with Azure 
+========================================================================================
+Module 3 Review
+
+1. Encryption
+2. Cloud provider
+3. Identity Access Management
+4. Super Administrator
+5. 1
+6. Account
+7. Higher overhead 
+8. application security group
+9. physical datacenter, physical network, physical hosts
+10. True
+========================================================================================
+========================================================================================
+Module 4 Review
+
+1. All and indexed
+2. Description
+3. 512
+4. Azure Virtual Network (VNet)
+5. False
+6. Lifecycle
+7. Metadata
+8. a name and a value pair
+========================================================================================
+Module 5 Review
+
+1. True
+2. Deny
+3. 100 - 65000
+4. *
+5. False
+6. Azure Resource Groups
+7. Resource Manager
+8. all
+9. Management Groups / Subscriptions / Resource Groups / Resources
+10. 4 MB; 64 KB
